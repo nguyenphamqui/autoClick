@@ -1,1 +1,3 @@
 # autoClick
+
+# install python
