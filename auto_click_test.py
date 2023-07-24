@@ -13,3 +13,6 @@ for _ in range(click):
  print(x, ' - ' ,y)
  pyautogui.click(x,y)
  time.sleep(delay)
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
